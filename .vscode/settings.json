@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/30e019dc-cab3-401c-95db-d182d4eb39e6/resourceGroups/HairBooking/providers/Microsoft.Web/sites/HairBookingApi",
+    "appService.deploySubpath": "bin/Release/net8.0/publish"
+}

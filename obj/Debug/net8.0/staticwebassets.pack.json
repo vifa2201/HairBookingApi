@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets/images/erikPortrattHockey245544848.jpg"
     },
     {
+      "Id": "/Users/violafalk/Documents/Webbutveckling/NET/projekt/HairBookingApi/wwwroot/images/figur2240403444.png",
+      "PackagePath": "staticwebassets/images/figur2240403444.png"
+    },
+    {
       "Id": "/Users/violafalk/Documents/Webbutveckling/NET/projekt/HairBookingApi/wwwroot/images/frejaportatt244354746.jpg",
       "PackagePath": "staticwebassets/images/frejaportatt244354746.jpg"
     },

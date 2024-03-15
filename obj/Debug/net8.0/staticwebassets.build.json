@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "w+gKlT+yTeNlwCvMD5FxlvNv0kUnEXJjNCVIauS9fCQ=",
+  "Hash": "JjnmzMuVim7TI9i3QXMtW6T6p36YBVPNvlf8i6DHdvs=",
   "Source": "HairBookingApi",
   "BasePath": "_content/HairBookingApi",
   "Mode": "Default",
@@ -224,6 +224,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/erikPortrattHockey245544848.jpg"
+    },
+    {
+      "Identity": "/Users/violafalk/Documents/Webbutveckling/NET/projekt/HairBookingApi/wwwroot/images/figur2240403444.png",
+      "SourceId": "HairBookingApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/violafalk/Documents/Webbutveckling/NET/projekt/HairBookingApi/wwwroot/",
+      "BasePath": "_content/HairBookingApi",
+      "RelativePath": "images/figur2240403444.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/figur2240403444.png"
     },
     {
       "Identity": "/Users/violafalk/Documents/Webbutveckling/NET/projekt/HairBookingApi/wwwroot/images/frejaportatt244354746.jpg",

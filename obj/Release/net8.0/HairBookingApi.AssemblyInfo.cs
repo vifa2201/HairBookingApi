@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HairBookingApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff48a1519ab3aed41681e8f58ac5e0c900102403")]
 [assembly: System.Reflection.AssemblyProductAttribute("HairBookingApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HairBookingApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

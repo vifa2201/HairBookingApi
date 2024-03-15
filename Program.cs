@@ -51,12 +51,12 @@ builder.Services.AddIdentityApiEndpoints<IdentityUser>()
 
 
 var app = builder.Build();
+app.UseSwagger();
+
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger();
     app.UseSwaggerUI();
 }
-
 app.UseStaticFiles();
 
     app.UseRouting();

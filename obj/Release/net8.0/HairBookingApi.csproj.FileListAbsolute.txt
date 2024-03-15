@@ -270,3 +270,4 @@
 /Users/violafalk/Documents/Webbutveckling/NET/projekt/HairBookingApi/obj/Release/net8.0/HairBookingApi.pdb
 /Users/violafalk/Documents/Webbutveckling/NET/projekt/HairBookingApi/obj/Release/net8.0/HairBookingApi.genruntimeconfig.cache
 /Users/violafalk/Documents/Webbutveckling/NET/projekt/HairBookingApi/obj/Release/net8.0/ref/HairBookingApi.dll
+/Users/violafalk/Documents/Webbutveckling/NET/projekt/HairBookingApi/obj/Release/net8.0/HairBookingApi.sourcelink.json

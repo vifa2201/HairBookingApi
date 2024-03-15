@@ -270,3 +270,4 @@
 /Users/violafalk/Documents/Webbutveckling/NET/projekt/HairBookingApi/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
 /Users/violafalk/Documents/Webbutveckling/NET/projekt/HairBookingApi/bin/Debug/net8.0/MailKit.dll
 /Users/violafalk/Documents/Webbutveckling/NET/projekt/HairBookingApi/bin/Debug/net8.0/MimeKit.dll
+/Users/violafalk/Documents/Webbutveckling/NET/projekt/HairBookingApi/obj/Debug/net8.0/HairBookingApi.sourcelink.json
