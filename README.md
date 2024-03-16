@@ -57,5 +57,5 @@ POST, PUT pch DELETE
 - DELETE `/api/Time/{id}`: Raderar en befintlig tid med angivet ID.
 
   ### Inloggning och registrering
- - POST `/api/Login`: Loggar in.
- -  - POST `/api/LRegister`: Registrera inloggning.
+ - POST `/Login`: Loggar in.
+ -  POST `/LRegister`: Registrera inloggning.
